@@ -8,5 +8,5 @@ You need git on your computer.
 
 ## References
 
-Pro Git
-GitHub documentation
+* Pro Git
+* GitHub documentation
