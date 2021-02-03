@@ -4,6 +4,4 @@ BBBB bbbbb
 
 CCCC ccccc
 
-DDDD
-
 EEEE eeeee
